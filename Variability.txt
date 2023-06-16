@@ -1,0 +1,21 @@
+To determine which group, successful or failed backers, has more variability in their Crowdfunding campaigns, we can compare the standard deviation of both datasets.
+
+For the Successful backers:
+Standard Deviation: 1267
+
+For the Failed backers:
+Standard Deviation: 961
+
+Comparing these standard deviation values, we can observe the following:
+
+The standard deviation measures the spread or variability of the data points around the mean. A larger standard deviation indicates a greater variability in the data. In this case, the standard deviation of successful backers (1267) is larger than that of failed backers (961).
+
+Therefore, based on the standard deviation values, we can conclude that there is more variability in the campaigns of Successful backers compared to Failed backers.
+
+This result makes sense because successful crowdfunding campaigns typically involve a wider range of funding amounts, with some campaigns receiving exceptionally high contributions. This leads to a larger spread of values and a higher standard deviation in the dataset of successful backers. On the other hand, failed campaigns tend to have more consistent and lower funding amounts, resulting in a smaller spread of values and a lower standard deviation in the dataset of failed backers.
+
+Hence, the higher standard deviation of the successful backers' dataset indicates a greater variability in the funding amounts, supporting the idea that Successful campaigns exhibit more variability compared to Failed campaigns.
+
+
+
+

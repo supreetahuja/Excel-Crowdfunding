@@ -1,0 +1,22 @@
+
+To determine whether the Mean or Median better summarizes the data, we need to consider the characteristics of the data distributions.
+For the Successful # of Backers:
+•	Mean: 851
+•	Median: 201
+
+For the Failed # of backers:
+•	Mean: 586
+•	Median: 115
+
+The Mean is influenced by extreme values and is sensitive to outliers, while the Median is resistant to outliers and represents the middle value. Comparing the Mean and Median values, we can make the following observations:
+
+	Successful backers:
+•	 The Mean (851) is larger than the Median (201), suggesting that there are some high-value outliers pulling the Mean upwards. The distribution might be right-skewed due to the larger Mean.
+•	The Mode (85) is significantly smaller than both the mean and median, indicating that the distribution is not symmetrical.
+
+	Failed backers:
+•	The Mean (586) is larger than the Median (115), implying that there are some high-value outliers influencing the Mean.
+•	The Mode (1) is much smaller than both the Mean and Median, indicating a skewed distribution on the right side.
+
+Considering these observations, it appears that the Median may provide a better summary of both the successful and failed backers' data. The Median is less affected by extreme values and outliers, providing a more representative measure of the central tendency in skewed distributions. 
+In these cases, where the Mean is influenced by outliers and the Mode differs significantly from the Mean and Median, the Median tends to be a more robust and reliable measure.
